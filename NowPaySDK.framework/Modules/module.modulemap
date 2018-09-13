@@ -1,0 +1,6 @@
+framework module NowPaySDK {
+  umbrella header "NowPaySDK.h"
+
+  export *
+  module * { export * }
+}
